@@ -9,13 +9,13 @@ int a = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите число b: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
-if (a>b)
+if (a > b)
 {
-System.Console.WriteLine("a > b, a = max: " + a);
+    System.Console.WriteLine("a > b, a = max: " + a);
 }
-else if (a<b)
+else if (a < b)
 {
-System.Console.WriteLine("a < b, b = max: " + b);
+    System.Console.WriteLine("a < b, b = max: " + b);
 }
 else
-System.Console.WriteLine("a = b, значения равны: " + a + " = "  + b);
+    System.Console.WriteLine("a = b, значения равны: " + a + " = " + b);
