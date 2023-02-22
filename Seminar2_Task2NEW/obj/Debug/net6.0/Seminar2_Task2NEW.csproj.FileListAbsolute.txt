@@ -1,0 +1,15 @@
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\bin\Debug\net6.0\Seminar2_Task2NEW.exe
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\bin\Debug\net6.0\Seminar2_Task2NEW.deps.json
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\bin\Debug\net6.0\Seminar2_Task2NEW.runtimeconfig.json
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\bin\Debug\net6.0\Seminar2_Task2NEW.dll
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\bin\Debug\net6.0\Seminar2_Task2NEW.pdb
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.csproj.AssemblyReference.cache
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.AssemblyInfo.cs
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.csproj.CoreCompileInputs.cache
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.dll
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\refint\Seminar2_Task2NEW.dll
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.pdb
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\Seminar2_Task2NEW.genruntimeconfig.cache
+C:\Users\001\Desktop\C#_HomeWork_1\Seminar2_Task2NEW\obj\Debug\net6.0\ref\Seminar2_Task2NEW.dll
